@@ -1,4 +1,4 @@
-[![MasterHead](https://im3.ezgif.com/tmp/ezgif-3-c50e777b05.gif)](https://antonissykoutris.github.io/portfolio/)
+[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://antonissykoutris.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Antonis Sykoutris</h1>
 <h3 align="center">A Passionate Software Developer From Greece</h3>
 
