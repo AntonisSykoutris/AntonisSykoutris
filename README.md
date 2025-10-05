@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://antonissykoutris.github.io/portfolio/](https://antonissykoutris.github.io/portfolio/)
-
+- 👨‍💻 All of my projects are available at [[https://antonissykoutris.github.io/portfolio/](https://antonissykoutris.github.io/portfolio/)](https://sykoutris-portfolio-eight.vercel.app/)
 - 📫 How to reach me **antonis.sykoutris@protonmail.com**
 
 - ⚡ Fun fact **I like playing video games**
